@@ -1,0 +1,7 @@
+{
+  "name": "TroopWebHost_Reader",
+  "short_name": "TroopWebHost_Reader",
+  "description": "A reader for troop web host files",
+  "start_url": "/",
+  "display": "standalone"
+}
